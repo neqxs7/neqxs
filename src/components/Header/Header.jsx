@@ -13,7 +13,7 @@ const Header = () => {
 
 	return (
 		<nav>
-			<a href="https://serhatcan.dev">neqxs</a>
+			<a href="https://neqxs.netlify.app/">neqxs</a>
 			<div className="theme" onClick={() => toggleTheme()}>
 				<i
 					className={`fa-solid fa-${theme === "light-theme" ? "moon" : "sun"}`}
