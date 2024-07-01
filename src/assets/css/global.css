@@ -3,7 +3,7 @@
 .dark-theme {
 	--header-bg: #1f1f1f;
 	--main-bg: #1d1d1d;
-	--second-color: #6e44ff;
+	--second-color: #00ffff;
 	--main-text: #fff;
 	--second-text: #dadada;
 	--box-shadow: rgba(255, 255, 255, 0.05);
@@ -12,7 +12,7 @@
 .light-theme {
 	--header-bg: #fff;
 	--main-bg: #f9f9f9;
-	--second-color: #6e44ff;
+	--second-color: #00ffff;
 	--main-text: #2d2d2d;
 	--second-text: #5e5e5e;
 	--box-shadow: rgba(0, 0, 0, 0.09);
