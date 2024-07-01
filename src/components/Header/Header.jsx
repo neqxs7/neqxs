@@ -13,7 +13,7 @@ const Header = () => {
 
 	return (
 		<nav>
-			<a href="https://neqetria.lol">neqxs</a>
+			<a href="https://neqetria.lol">neqetria.</a>
 			<div className="theme" onClick={() => toggleTheme()}>
 				<i
 					className={`fa-solid fa-${theme === "light-theme" ? "moon" : "sun"}`}
