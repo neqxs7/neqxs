@@ -9,24 +9,23 @@ const Home = () => {
 				<div className="content">
 					<div className="hero-main">
 						<div className="hero-text">
-							<h1>Graphic Designer & Editor</h1>
+							<h1>editor & designer</h1>
 							<p>
-								Hello, im neqxs. I'm professional Graphic Designer & Editor. If you will want to buy a video edit or graphic design 
-								you should contact me.
+								im neqetria, 15 yo editor & graphic designer based in Turkey.
 							</p>
 							<div className="contact-icon">
-								<a href="https://discord.gg/GTnmndGbGt" target="_blank">
-									<i className="fa-brands fa-discord"></i>
+								<a href="https://instagram.com/neqetria/" target="_blank">
+									<i className="fa-brands fa-instagram"></i>
 								</a>
 
 								<a
-									href="https://www.youtube.com/@nexqs"
+									href="https://discord.gg/HqNGuA9BDg"
 									target="_blank"
 								>
-									<i className="fa-brands fa-youtube"></i>
+									<i className="fa-brands fa-discord"></i>
 								</a>
 
-								<a href="mailto:neqxs777@gmail.com">
+								<a href="mailto:neqetria@proton.me">
 									<i className="fa-solid fa-envelope"></i>
 								</a>
 							</div>
