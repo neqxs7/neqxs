@@ -14,12 +14,12 @@ const Home = () => {
 								im neqetria, 15 yo editor & graphic designer based in Turkey.
 							</p>
 							<div className="contact-icon">
-								<a href="https://instagram.com/neqetria/" target="_blank">
-									<i className="fa-brands fa-instagram"></i>
+								<a href="https://open.spotify.com/user/rm6k4vch2svjryfdmhop73n7y?si=720d04bbd8394164" target="_blank">
+									<i className="fa-brands fa-spotify"></i>
 								</a>
 
 								<a
-									href="https://discord.gg/HqNGuA9BDg"
+									href="https://discord.gg/users/1251184286959145094"
 									target="_blank"
 								>
 									<i className="fa-brands fa-discord"></i>
