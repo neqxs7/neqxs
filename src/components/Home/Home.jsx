@@ -19,7 +19,7 @@ const Home = () => {
 								</a>
 
 								<a
-									href="https://discord.gg/users/1251184286959145094"
+									href="https://discord.com/users/1251184286959145094"
 									target="_blank"
 								>
 									<i className="fa-brands fa-discord"></i>
