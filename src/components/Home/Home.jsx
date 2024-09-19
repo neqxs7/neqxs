@@ -11,7 +11,8 @@ const Home = () => {
 						<div className="hero-text">
 							<h1>editor & designer</h1>
 							<p>
-								im neqetria, 15 yo editor & graphic designer based in Turkey.
+								im neqetria, editor & graphic designer based in Turkey.
+								mail for business: neqetria@gmail.com
 							</p>
 							<div className="contact-icon">
 								<a href="https://open.spotify.com/user/rm6k4vch2svjryfdmhop73n7y?si=720d04bbd8394164" target="_blank">
