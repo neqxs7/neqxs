@@ -9,10 +9,9 @@ const Home = () => {
 				<div className="content">
 					<div className="hero-main">
 						<div className="hero-text">
-							<h1>neqetria matrix</h1>
+							<h1>neqetria</h1>
 							<p>
-								neqetria@gmail.com
-								tiklaindir.com@gmail.com
+								editor, graphic designer, beginner coder based in Turkiye.
 							</p>
 							<div className="contact-icon">
 								<a href="https://open.spotify.com/user/rm6k4vch2svjryfdmhop73n7y?si=720d04bbd8394164" target="_blank">
